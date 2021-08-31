@@ -216,6 +216,12 @@
     },
     "done": true
   },
+  "pixelmon:recipes/decorative/brown_vending_machine": {
+    "criteria": {
+      "has_fresh_water": "2021-08-31 07:50:15 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/fir_planks": {
     "criteria": {
       "has_log": "2021-08-31 04:19:34 +0000"
@@ -237,6 +243,13 @@
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2021-08-29 04:18:47 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decorative/yellow_vending_machine": {
+    "criteria": {
+      "has_the_recipe": "2021-08-31 07:50:15 +0000",
+      "has_fresh_water": "2021-08-31 07:50:15 +0000"
     },
     "done": true
   },
@@ -339,6 +352,12 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-08-29 03:44:30 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decorative/green_vending_machine": {
+    "criteria": {
+      "has_fresh_water": "2021-08-31 07:50:15 +0000"
     },
     "done": true
   },
@@ -1009,6 +1028,13 @@
     },
     "done": true
   },
+  "pixelmon:recipes/decorative/orange_vending_machine": {
+    "criteria": {
+      "has_the_recipe": "2021-08-31 07:50:15 +0000",
+      "has_fresh_water": "2021-08-31 07:50:15 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_hellbark": {
     "criteria": {
       "entered_water": "2021-08-29 01:48:56 +0000"
@@ -1097,6 +1123,12 @@
   "pixelmon:recipes/decorative/orange_rug": {
     "criteria": {
       "has_wool": "2021-08-29 02:09:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decorative/gray_vending_machine": {
+    "criteria": {
+      "has_fresh_water": "2021-08-31 07:50:15 +0000"
     },
     "done": true
   },
@@ -1303,6 +1335,13 @@
     },
     "done": true
   },
+  "pixelmon:recipes/machines/pink_vending_machine": {
+    "criteria": {
+      "has_the_recipe": "2021-08-31 07:50:15 +0000",
+      "has_fresh_water": "2021-08-31 07:50:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2021-08-29 02:09:16 +0000"
@@ -1345,9 +1384,22 @@
     },
     "done": true
   },
+  "pixelmon:recipes/decorative/purple_vending_machine": {
+    "criteria": {
+      "has_fresh_water": "2021-08-31 07:50:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2021-08-29 02:09:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/green_vending_machine": {
+    "criteria": {
+      "has_the_recipe": "2021-08-31 07:50:15 +0000",
+      "has_fresh_water": "2021-08-31 07:50:15 +0000"
     },
     "done": true
   },
@@ -1553,6 +1605,12 @@
     },
     "done": true
   },
+  "pixelmon:recipes/decorative/blue_vending_machine": {
+    "criteria": {
+      "has_fresh_water": "2021-08-31 07:50:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_stained_glass_pane": {
     "criteria": {
       "has_glass": "2021-08-29 22:02:14 +0000"
@@ -1568,6 +1626,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-08-29 03:44:30 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decorative/pink_vending_machine": {
+    "criteria": {
+      "has_fresh_water": "2021-08-31 07:50:15 +0000"
     },
     "done": true
   },
@@ -1866,6 +1930,12 @@
     },
     "done": true
   },
+  "pixelmon:recipes/decorative/white_vending_machine": {
+    "criteria": {
+      "has_fresh_water": "2021-08-31 07:50:15 +0000"
+    },
+    "done": true
+  },
   "pixelmon:recipes/decorative/gray_rug": {
     "criteria": {
       "has_wool": "2021-08-29 02:09:16 +0000"
@@ -1902,6 +1972,13 @@
     },
     "done": true
   },
+  "pixelmon:recipes/machines/blue_vending_machine": {
+    "criteria": {
+      "has_the_recipe": "2021-08-31 07:50:15 +0000",
+      "has_fresh_water": "2021-08-31 07:50:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2021-08-29 09:52:27 +0000"
@@ -1919,6 +1996,12 @@
   "biomesoplenty:recipes/transportation/boat_palm": {
     "criteria": {
       "entered_water": "2021-08-29 01:48:56 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/orange_vending_machine": {
+    "criteria": {
+      "has_fresh_water": "2021-08-31 07:50:15 +0000"
     },
     "done": true
   },
@@ -1991,6 +2074,13 @@
   "pixelmon:recipes/decorative/gray_cushion_chair": {
     "criteria": {
       "has_wool": "2021-08-29 02:09:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decorative/red_vending_machine": {
+    "criteria": {
+      "has_the_recipe": "2021-08-31 07:50:15 +0000",
+      "has_fresh_water": "2021-08-31 07:50:15 +0000"
     },
     "done": true
   },
@@ -2224,6 +2314,12 @@
     },
     "done": true
   },
+  "pixelmon:recipes/decorative/black_vending_machine": {
+    "criteria": {
+      "has_fresh_water": "2021-08-31 07:50:15 +0000"
+    },
+    "done": true
+  },
   "pixelmon:specs/spec_trigger": {
     "criteria": {
       "valencian_spec_trigger": "2021-08-30 02:32:21 +0000"
@@ -2257,6 +2353,12 @@
   "biomesoplenty:recipes/buildingblocks/celestial_crystal": {
     "criteria": {
       "has_item": "2021-08-30 05:15:37 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/red_vending_machine": {
+    "criteria": {
+      "has_fresh_water": "2021-08-31 07:50:15 +0000"
     },
     "done": true
   },
@@ -2294,6 +2396,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2021-08-29 01:48:56 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decorative/cyan_vending_machine": {
+    "criteria": {
+      "has_fresh_water": "2021-08-31 07:50:15 +0000"
     },
     "done": true
   },
@@ -2396,6 +2504,12 @@
   "biomesoplenty:recipes/food/bowl_of_rice": {
     "criteria": {
       "has_bowl": "2021-08-29 03:55:51 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/yellow_vending_machine": {
+    "criteria": {
+      "has_fresh_water": "2021-08-31 07:50:15 +0000"
     },
     "done": true
   },

@@ -146,9 +146,11 @@
   "pixelmon:recipes/lures/lure_type_strong": {
     "criteria": {
       "has_lum": "2021-08-30 19:41:38 +0000",
-      "has_sitrus": "2021-08-29 04:33:33 +0000"
+      "has_sitrus": "2021-08-29 04:33:33 +0000",
+      "has_enigma": "2021-08-31 18:32:35 +0000",
+      "has_case_recipe": "2021-08-31 20:14:27 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
@@ -159,6 +161,12 @@
   "minecraft:recipes/building_blocks/white_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2021-08-29 04:22:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2021-08-31 20:14:27 +0000"
     },
     "done": true
   },
@@ -433,6 +441,7 @@
       "woodland": "2021-08-29 01:50:05 +0000",
       "shrubland": "2021-08-29 03:59:13 +0000",
       "alps_foothills": "2021-08-30 01:13:44 +0000",
+      "steppe": "2021-08-31 18:47:20 +0000",
       "bayou": "2021-08-29 06:06:28 +0000",
       "highland": "2021-08-29 07:11:53 +0000",
       "marsh": "2021-08-29 07:25:49 +0000",
@@ -563,9 +572,10 @@
   },
   "pixelmon:recipes/lures/lure_casing_strong": {
     "criteria": {
+      "has_gold_ingot": "2021-08-31 20:14:27 +0000",
       "has_crystal": "2021-08-29 02:32:02 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:adventure/root": {
     "criteria": {
@@ -702,6 +712,12 @@
   "pixelmon:recipes/decorative/pink_umbrella": {
     "criteria": {
       "has_wool": "2021-08-30 03:14:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2021-08-31 20:14:27 +0000"
     },
     "done": true
   },
@@ -888,6 +904,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2021-08-31 20:14:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2021-08-29 02:36:09 +0000"
@@ -1030,6 +1052,20 @@
   "biomesoplenty:recipes/buildingblocks/coarse_sandy_dirt": {
     "criteria": {
       "has_gravel": "2021-08-29 02:00:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2021-08-31 20:14:27 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/lures/lure_shiny_strong": {
+    "criteria": {
+      "has_lansat": "2021-08-31 19:07:11 +0000",
+      "has_case_recipe": "2021-08-31 20:14:27 +0000",
+      "has_starf": "2021-08-31 20:05:29 +0000"
     },
     "done": true
   },
@@ -1196,6 +1232,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2021-08-31 02:15:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_at_least_9_lapis": "2021-08-31 20:08:33 +0000"
     },
     "done": true
   },
@@ -1375,6 +1417,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2021-08-31 20:14:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2021-08-29 02:19:48 +0000"
@@ -1471,6 +1519,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2021-08-31 20:14:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2021-08-30 04:42:10 +0000",
@@ -1497,6 +1551,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2021-08-29 02:36:09 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/fir_fence": {
+    "criteria": {
+      "has_planks": "2021-08-31 18:08:05 +0000"
     },
     "done": true
   },
@@ -1548,6 +1608,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2021-08-31 20:14:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2021-08-30 18:40:06 +0000"
@@ -1556,9 +1622,10 @@
   },
   "pixelmon:recipes/lures/lure_ha_weak": {
     "criteria": {
+      "has_petaya": "2021-08-31 19:10:18 +0000",
       "has_case_recipe": "2021-08-29 02:36:09 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
@@ -1662,9 +1729,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2021-08-31 20:14:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-08-29 02:00:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2021-08-31 19:28:23 +0000"
     },
     "done": true
   },
@@ -1818,6 +1897,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_the_recipe": "2021-08-31 20:08:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2021-08-31 02:15:17 +0000"
@@ -1851,9 +1936,10 @@
   },
   "pixelmon:recipes/lures/lure_type_weak": {
     "criteria": {
+      "has_oran": "2021-08-31 20:35:46 +0000",
       "has_case_recipe": "2021-08-29 02:36:09 +0000"
     },
-    "done": false
+    "done": true
   },
   "biomesoplenty:recipes/transportation/boat_palm": {
     "criteria": {
@@ -1876,6 +1962,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stonebrick": "2021-08-30 04:28:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2021-08-31 20:14:27 +0000"
     },
     "done": true
   },
@@ -1987,6 +2079,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2021-08-31 20:14:27 +0000"
+    },
+    "done": true
+  },
   "pixelmon:balls/great_ball_capture": {
     "criteria": {
       "great_ball_capture": "2021-08-29 05:49:09 +0000"
@@ -1999,6 +2097,14 @@
     },
     "done": true
   },
+  "pixelmon:recipes/lures/lure_ha_strong": {
+    "criteria": {
+      "has_petaya": "2021-08-31 19:10:18 +0000",
+      "has_case_recipe": "2021-08-31 20:14:27 +0000",
+      "has_starf": "2021-08-31 20:05:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2021-08-29 02:18:24 +0000"
@@ -2007,9 +2113,10 @@
   },
   "pixelmon:recipes/lures/lure_shiny_weak": {
     "criteria": {
+      "has_lansat": "2021-08-31 19:07:11 +0000",
       "has_case_recipe": "2021-08-29 02:36:09 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/yellow_stained_glass_pane": {
     "criteria": {
@@ -2035,6 +2142,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/fir_door": {
+    "criteria": {
+      "has_planks": "2021-08-31 18:08:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2021-08-29 04:22:31 +0000"
@@ -2050,6 +2163,18 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2021-08-29 02:31:40 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/fir_wooden_slab": {
+    "criteria": {
+      "has_planks": "2021-08-31 18:08:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2021-08-31 20:14:27 +0000"
     },
     "done": true
   },
@@ -2092,6 +2217,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_the_recipe": "2021-08-29 02:28:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2021-08-31 19:28:23 +0000"
     },
     "done": true
   },
@@ -2319,6 +2450,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2021-08-31 20:14:27 +0000"
+    },
+    "done": true
+  },
   "pixelmon:recipes/machines/yellow_vending_machine": {
     "criteria": {
       "has_lemonade": "2021-08-29 04:08:51 +0000"
@@ -2343,9 +2480,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/buildingblocks/fir_stairs": {
+    "criteria": {
+      "has_planks": "2021-08-31 18:08:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2021-08-29 02:53:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-08-31 18:08:05 +0000"
     },
     "done": true
   },
