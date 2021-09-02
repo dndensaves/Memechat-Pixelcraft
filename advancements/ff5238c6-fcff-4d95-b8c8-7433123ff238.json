@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2021-09-01 03:03:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2021-08-29 03:28:30 +0000"
@@ -114,9 +120,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2021-09-01 03:03:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2021-08-29 01:50:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_the_recipe": "2021-09-01 00:34:46 +0000"
     },
     "done": true
   },
@@ -135,6 +153,12 @@
   "minecraft:recipes/redstone/trapdoor": {
     "criteria": {
       "has_planks": "2021-08-29 01:50:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2021-09-01 01:17:35 +0000"
     },
     "done": true
   },
@@ -283,6 +307,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2021-09-02 00:52:49 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/fir_planks": {
     "criteria": {
       "has_log": "2021-08-29 18:14:07 +0000"
@@ -319,9 +349,14 @@
       "cooked_porkchop": "2021-08-29 20:23:38 +0000",
       "cooked_mutton": "2021-08-29 02:54:24 +0000",
       "cooked_beef": "2021-08-29 02:12:04 +0000",
+      "baked_potato": "2021-09-01 03:03:10 +0000",
       "clownfish": "2021-08-29 04:27:54 +0000",
       "cooked_cod": "2021-08-29 02:54:21 +0000",
+      "melon": "2021-09-01 01:17:39 +0000",
       "pufferfish": "2021-08-29 03:40:52 +0000",
+      "cooked_rabbit": "2021-09-01 03:35:37 +0000",
+      "cooked_chicken": "2021-09-01 01:30:51 +0000",
+      "cooked_salmon": "2021-09-02 00:52:27 +0000",
       "carrot": "2021-08-29 02:20:02 +0000"
     },
     "done": false
@@ -365,6 +400,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2021-08-29 20:49:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/speckled_melon": {
+    "criteria": {
+      "has_melon": "2021-09-01 01:17:35 +0000"
     },
     "done": true
   },
@@ -458,6 +499,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/willow_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-09-01 01:29:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2021-08-29 02:00:49 +0000"
@@ -490,9 +537,10 @@
   },
   "pixelmon:recipes/lures/lure_ha_weak": {
     "criteria": {
+      "has_petaya": "2021-09-02 03:44:01 +0000",
       "has_case_recipe": "2021-08-31 17:41:30 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
@@ -524,9 +572,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2021-09-01 01:38:37 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/crafting_table_from_bop_wood": {
     "criteria": {
       "has_the_recipe": "2021-08-29 01:50:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2021-08-31 21:31:03 +0000"
     },
     "done": true
   },
@@ -541,6 +601,7 @@
       "woodland": "2021-08-29 01:47:02 +0000",
       "shrubland": "2021-08-29 04:22:03 +0000",
       "xeric_shrubland": "2021-08-30 23:13:22 +0000",
+      "tropical_rainforest": "2021-09-02 04:03:23 +0000",
       "fen": "2021-08-29 19:04:56 +0000",
       "steppe": "2021-08-29 19:58:41 +0000",
       "bayou": "2021-08-29 19:11:57 +0000",
@@ -559,14 +620,18 @@
       "bog": "2021-08-30 02:55:30 +0000",
       "coniferous_forest": "2021-08-29 18:14:08 +0000",
       "outback": "2021-08-29 19:26:08 +0000",
+      "shield": "2021-09-01 01:40:12 +0000",
+      "wasteland": "2021-09-02 03:41:14 +0000",
       "mangrove": "2021-08-29 19:10:53 +0000",
       "boreal_forest": "2021-08-30 01:50:07 +0000",
       "redwood_forest": "2021-08-30 02:22:54 +0000",
       "visceral_heap": "2021-08-29 20:49:11 +0000",
       "cherry_blossom_grove": "2021-08-31 18:47:36 +0000",
+      "snowy_forest": "2021-09-01 01:36:05 +0000",
       "seasonal_forest": "2021-08-30 02:52:52 +0000",
       "dead_forest": "2021-08-30 02:40:03 +0000",
       "kelp_forest": "2021-08-29 01:50:40 +0000",
+      "dead_swamp": "2021-09-01 01:23:00 +0000",
       "pasture": "2021-08-29 03:13:50 +0000",
       "meadow": "2021-08-30 02:40:19 +0000",
       "lush_swamp": "2021-08-30 03:12:15 +0000",
@@ -577,7 +642,8 @@
       "gravel_beach": "2021-08-29 01:48:12 +0000",
       "grove": "2021-08-30 02:37:35 +0000",
       "lavender_fields": "2021-08-30 03:17:51 +0000",
-      "crag": "2021-08-29 03:26:06 +0000"
+      "crag": "2021-08-29 03:26:06 +0000",
+      "ominous_woods": "2021-09-01 01:21:36 +0000"
     },
     "done": false
   },
@@ -744,6 +810,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2021-09-02 01:16:38 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/white_wool_from_cattails": {
     "criteria": {
       "has_log": "2021-08-29 03:06:57 +0000"
@@ -834,6 +906,18 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/buildingblocks/willow_wooden_slab": {
+    "criteria": {
+      "has_planks": "2021-09-01 01:29:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_at_least_9_redstone": "2021-09-01 00:34:46 +0000"
+    },
+    "done": true
+  },
   "pixelmon:recipes/machines/mechanical_anvil": {
     "criteria": {
       "has_sticky_piston": "2021-08-30 01:26:53 +0000"
@@ -870,15 +954,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2021-09-01 00:26:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2021-08-31 18:17:33 +0000"
     },
     "done": true
   },
+  "pixelmon:legendaries/suicune_capture_trigger": {
+    "criteria": {
+      "suicune_capture": "2021-09-02 02:33:05 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_magic": {
     "criteria": {
       "entered_water": "2021-08-29 01:50:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_the_recipe": "2021-09-02 01:06:34 +0000"
     },
     "done": true
   },
@@ -925,9 +1027,27 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/willow_door": {
+    "criteria": {
+      "has_planks": "2021-09-01 01:29:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2021-09-02 01:57:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2021-08-31 18:17:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2021-09-01 00:26:10 +0000"
     },
     "done": true
   },
@@ -967,15 +1087,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_lapis": "2021-09-02 01:06:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2021-08-29 20:36:44 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2021-09-01 01:38:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2021-09-02 01:57:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
+    "criteria": {
+      "has_lapis": "2021-09-02 01:06:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2021-08-31 18:08:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
+    "criteria": {
+      "has_lapis": "2021-09-02 01:06:32 +0000"
     },
     "done": true
   },
@@ -988,6 +1138,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2021-08-31 04:34:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_red_pink": {
+    "criteria": {
+      "has_lapis": "2021-09-02 01:06:32 +0000"
     },
     "done": true
   },
@@ -1031,6 +1187,12 @@
     "criteria": {
       "has_the_recipe": "2021-08-31 17:18:43 +0000",
       "has_fresh_water": "2021-08-31 17:18:43 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/willow_fence": {
+    "criteria": {
+      "has_planks": "2021-09-01 01:29:33 +0000"
     },
     "done": true
   },
@@ -1084,6 +1246,7 @@
   },
   "biomesoplenty:biomesoplenty/terrestrial_artifact": {
     "criteria": {
+      "peridot": "2021-09-02 01:06:38 +0000",
       "emerald": "2021-08-31 17:40:18 +0000"
     },
     "done": false
@@ -1103,6 +1266,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2021-08-31 03:41:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2021-09-01 02:49:03 +0000"
     },
     "done": true
   },
@@ -1132,9 +1301,10 @@
   },
   "pixelmon:recipes/lures/lure_ha_strong": {
     "criteria": {
+      "has_petaya": "2021-09-02 03:44:01 +0000",
       "has_case_recipe": "2021-08-31 18:08:54 +0000"
     },
-    "done": false
+    "done": true
   },
   "biomesoplenty:recipes/redstone/wooden_pressure_plate_from_bop_wood": {
     "criteria": {
@@ -1181,6 +1351,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-08-29 02:20:11 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/willow_planks": {
+    "criteria": {
+      "has_log": "2021-09-01 01:28:16 +0000"
     },
     "done": true
   },
@@ -1244,6 +1420,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2021-09-01 00:30:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2021-08-31 17:42:48 +0000"
@@ -1298,6 +1480,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2021-08-31 21:30:00 +0000"
+    },
+    "done": true
+  },
   "pixelmon:recipes/decorative/orange_vending_machine": {
     "criteria": {
       "has_the_recipe": "2021-08-31 17:18:43 +0000",
@@ -1314,6 +1502,12 @@
   "biomesoplenty:recipes/transportation/boat_hellbark": {
     "criteria": {
       "entered_water": "2021-08-29 01:50:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-09-01 00:26:10 +0000"
     },
     "done": true
   },
@@ -1338,6 +1532,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2021-08-29 20:49:56 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:legendaries/legendary_capture_trigger": {
+    "criteria": {
+      "legendary_capture": "2021-09-02 02:33:05 +0000"
     },
     "done": true
   },
@@ -1443,6 +1643,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_stone": "2021-08-31 21:36:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2021-08-29 03:35:09 +0000"
@@ -1470,6 +1676,8 @@
       "forest_hills": "2021-08-31 18:44:31 +0000",
       "plains": "2021-08-29 04:08:03 +0000",
       "savanna": "2021-08-29 19:23:08 +0000",
+      "jungle_hills": "2021-09-02 04:05:01 +0000",
+      "jungle_edge": "2021-09-02 04:04:52 +0000",
       "mesa_clear_rock": "2021-08-30 03:20:24 +0000",
       "savanna_rock": "2021-08-30 03:14:06 +0000",
       "taiga": "2021-08-29 19:00:21 +0000",
@@ -1481,6 +1689,7 @@
       "roofed_forest": "2021-08-29 03:16:04 +0000",
       "cold_beach": "2021-08-30 02:10:29 +0000",
       "river": "2021-08-29 02:02:23 +0000",
+      "jungle": "2021-09-02 04:05:16 +0000",
       "desert": "2021-08-29 19:36:12 +0000",
       "stone_beach": "2021-08-30 01:59:07 +0000"
     },
@@ -1489,6 +1698,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2021-08-29 20:49:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wooden_slab": {
+    "criteria": {
+      "has_planks": "2021-09-01 00:26:10 +0000"
     },
     "done": true
   },
@@ -1525,6 +1740,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2021-08-29 03:28:30 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:balls/dusk_ball_capture": {
+    "criteria": {
+      "dusk_ball_capture": "2021-09-02 02:33:05 +0000"
     },
     "done": true
   },
@@ -1565,6 +1786,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_lapis": "2021-09-02 01:06:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2021-08-29 01:50:28 +0000"
@@ -1574,6 +1801,18 @@
   "pixelmon:recipes/decorative/cyan_vending_machine": {
     "criteria": {
       "has_fresh_water": "2021-08-31 17:18:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2021-09-02 01:16:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2021-09-01 00:26:10 +0000"
     },
     "done": true
   },
@@ -1613,9 +1852,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_at_least_9_lapis": "2021-09-02 01:06:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_brick": "2021-08-29 20:51:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2021-09-02 01:57:30 +0000"
     },
     "done": true
   },
@@ -1646,6 +1897,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2021-08-31 18:08:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon_block": {
+    "criteria": {
+      "has_melon": "2021-09-01 01:17:35 +0000"
     },
     "done": true
   },
@@ -1697,9 +1954,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_stone": "2021-09-01 00:30:24 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/fir_fence_gate": {
     "criteria": {
       "has_planks": "2021-08-31 17:27:25 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/willow_stairs": {
+    "criteria": {
+      "has_planks": "2021-09-01 01:29:33 +0000"
     },
     "done": true
   },
@@ -1712,6 +1981,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2021-08-29 03:28:30 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:types/capture_steel_10": {
+    "criteria": {
+      "capture_steel_10": "2021-09-02 02:40:50 +0000"
     },
     "done": true
   },

@@ -5,9 +5,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2021-09-02 00:54:37 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/yellow_dye_from_goldenrod": {
     "criteria": {
       "has_flower": "2021-08-30 03:51:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2021-09-02 00:54:37 +0000"
     },
     "done": true
   },
@@ -32,6 +44,12 @@
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2021-08-30 01:35:31 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/healer": {
+    "criteria": {
+      "has_aluminium_plate": "2021-09-02 01:00:21 +0000"
     },
     "done": true
   },
@@ -83,9 +101,21 @@
     },
     "done": true
   },
+  "pixelmon:recipes/decorative/purple_vending_machine": {
+    "criteria": {
+      "has_fresh_water": "2021-09-02 02:38:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2021-08-30 01:32:21 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/green_vending_machine": {
+    "criteria": {
+      "has_fresh_water": "2021-09-02 02:38:09 +0000"
     },
     "done": true
   },
@@ -98,6 +128,12 @@
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2021-08-30 01:21:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2021-09-02 00:54:37 +0000"
     },
     "done": true
   },
@@ -179,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2021-09-02 00:54:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/trapdoor": {
     "criteria": {
       "has_planks": "2021-08-30 01:34:33 +0000"
@@ -193,9 +235,16 @@
   },
   "pixelmon:recipes/lures/lure_type_strong": {
     "criteria": {
-      "has_sitrus": "2021-08-30 22:05:08 +0000"
+      "has_sitrus": "2021-08-30 22:05:08 +0000",
+      "has_enigma": "2021-09-02 04:59:36 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2021-09-02 00:54:37 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
@@ -212,6 +261,12 @@
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-08-30 02:04:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2021-09-02 00:54:37 +0000"
     },
     "done": true
   },
@@ -239,6 +294,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2021-09-02 00:30:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2021-09-02 00:54:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2021-09-02 00:54:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2021-08-30 01:32:21 +0000"
@@ -257,6 +330,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2021-09-02 00:45:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2021-08-30 01:34:33 +0000"
@@ -266,6 +345,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "entered_water": "2021-08-30 01:14:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2021-09-02 00:30:48 +0000"
     },
     "done": true
   },
@@ -290,6 +375,12 @@
   "biomesoplenty:recipes/transportation/boat_ethereal": {
     "criteria": {
       "entered_water": "2021-08-30 01:14:01 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decorative/brown_vending_machine": {
+    "criteria": {
+      "has_fresh_water": "2021-09-02 02:38:09 +0000"
     },
     "done": true
   },
@@ -323,6 +414,12 @@
     },
     "done": true
   },
+  "pixelmon:recipes/decorative/yellow_vending_machine": {
+    "criteria": {
+      "has_fresh_water": "2021-09-02 02:38:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2021-08-30 01:36:08 +0000"
@@ -331,11 +428,14 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2021-09-02 06:09:25 +0000",
       "cooked_mutton": "2021-08-30 04:28:44 +0000",
       "cooked_beef": "2021-08-30 04:28:41 +0000",
       "baked_potato": "2021-08-30 03:31:34 +0000",
       "porkchop": "2021-08-30 05:01:48 +0000",
+      "clownfish": "2021-09-01 03:15:39 +0000",
       "apple": "2021-08-30 21:15:26 +0000",
+      "potato": "2021-09-02 04:41:59 +0000",
       "cooked_cod": "2021-08-30 05:30:26 +0000",
       "bread": "2021-08-30 01:28:32 +0000",
       "beetroot": "2021-08-31 04:17:32 +0000",
@@ -422,6 +522,18 @@
     },
     "done": true
   },
+  "pixelmon:recipes/decorative/blue_vending_machine": {
+    "criteria": {
+      "has_fresh_water": "2021-09-02 02:38:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2021-09-02 00:54:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/fence_gate": {
     "criteria": {
       "has_planks": "2021-08-30 01:34:33 +0000"
@@ -452,6 +564,12 @@
     },
     "done": true
   },
+  "pixelmon:recipes/decorative/pink_vending_machine": {
+    "criteria": {
+      "has_fresh_water": "2021-09-02 02:38:09 +0000"
+    },
+    "done": true
+  },
   "pixelmon:recipes/decorative/orange_cushion_chair": {
     "criteria": {
       "has_wool": "2021-08-30 01:32:21 +0000"
@@ -461,6 +579,13 @@
   "biomesoplenty:recipes/transportation/boat_eucalyptus": {
     "criteria": {
       "entered_water": "2021-08-30 01:14:01 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decorative/green_vending_machine": {
+    "criteria": {
+      "has_the_recipe": "2021-09-02 02:38:09 +0000",
+      "has_fresh_water": "2021-09-02 02:38:09 +0000"
     },
     "done": true
   },
@@ -502,13 +627,26 @@
   },
   "pixelmon:recipes/lures/lure_ha_weak": {
     "criteria": {
+      "has_petaya": "2021-09-02 05:04:47 +0000",
       "has_case_recipe": "2021-08-30 02:14:06 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2021-09-02 00:54:37 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2021-08-30 01:36:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2021-09-02 00:54:37 +0000"
     },
     "done": true
   },
@@ -530,6 +668,12 @@
     },
     "done": true
   },
+  "pixelmon:recipes/machines/fossil_cleaner": {
+    "criteria": {
+      "has_aluminium_plate": "2021-09-02 01:00:21 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/crafting_table_from_bop_wood": {
     "criteria": {
       "has_the_recipe": "2021-08-30 01:34:33 +0000"
@@ -539,6 +683,12 @@
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_double_plant": "2021-08-30 21:42:31 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:specs/shiny_spec_trigger": {
+    "criteria": {
+      "shiny_spec_trigger": "2021-09-02 05:17:18 +0000"
     },
     "done": true
   },
@@ -554,29 +704,50 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2021-09-02 00:30:48 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "oasis": "2021-08-31 05:34:22 +0000",
       "woodland": "2021-08-30 01:10:27 +0000",
       "shrubland": "2021-08-30 22:04:20 +0000",
+      "fen": "2021-09-02 06:32:32 +0000",
+      "bayou": "2021-09-01 03:20:51 +0000",
+      "highland": "2021-09-02 05:47:41 +0000",
+      "quagmire": "2021-09-02 04:57:58 +0000",
+      "marsh": "2021-09-02 05:01:27 +0000",
       "chaparral": "2021-08-30 05:55:05 +0000",
       "wetland": "2021-08-30 05:28:19 +0000",
       "flower_field": "2021-08-30 21:46:32 +0000",
+      "mountain_foothills": "2021-09-02 05:57:17 +0000",
+      "maple_woods": "2021-09-02 05:47:46 +0000",
       "coral_reef": "2021-08-30 04:30:31 +0000",
       "orchard": "2021-08-30 22:02:12 +0000",
+      "moor": "2021-09-02 04:57:30 +0000",
       "land_of_lakes": "2021-08-30 21:50:43 +0000",
       "bog": "2021-08-30 21:52:11 +0000",
       "coniferous_forest": "2021-08-31 05:54:44 +0000",
       "outback": "2021-08-31 05:32:54 +0000",
+      "shield": "2021-09-02 05:52:56 +0000",
       "mangrove": "2021-08-31 05:59:16 +0000",
       "redwood_forest": "2021-08-30 03:09:54 +0000",
+      "boreal_forest": "2021-09-02 05:48:00 +0000",
       "visceral_heap": "2021-08-30 01:51:17 +0000",
       "kelp_forest": "2021-08-30 01:16:47 +0000",
+      "dead_swamp": "2021-09-02 06:35:42 +0000",
       "pasture": "2021-08-30 21:44:20 +0000",
+      "meadow": "2021-09-02 05:48:13 +0000",
       "lush_swamp": "2021-08-31 06:00:10 +0000",
       "prairie": "2021-08-30 01:19:28 +0000",
+      "tundra": "2021-09-02 05:53:19 +0000",
       "gravel_beach": "2021-08-30 01:13:27 +0000",
-      "lavender_fields": "2021-08-31 05:28:31 +0000"
+      "lavender_fields": "2021-08-31 05:28:31 +0000",
+      "crag": "2021-09-02 06:09:38 +0000",
+      "ominous_woods": "2021-09-02 06:09:40 +0000"
     },
     "done": false
   },
@@ -610,6 +781,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2021-09-02 00:30:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2021-09-02 00:54:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2021-08-30 01:19:12 +0000"
@@ -622,9 +805,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2021-09-02 00:54:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2021-08-30 01:32:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2021-09-02 00:54:37 +0000"
     },
     "done": true
   },
@@ -706,6 +901,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2021-09-02 00:54:37 +0000"
+    },
+    "done": true
+  },
   "pixelmon:recipes/lures/lure_casing_strong": {
     "criteria": {
       "has_crystal": "2021-08-30 02:14:06 +0000"
@@ -766,6 +967,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2021-09-02 00:30:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2021-09-02 00:30:48 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/pc": {
+    "criteria": {
+      "has_aluminium_plate": "2021-09-02 01:00:21 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_umbran": {
     "criteria": {
       "entered_water": "2021-08-30 01:14:01 +0000"
@@ -775,6 +994,18 @@
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2021-08-30 22:11:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2021-09-02 00:54:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2021-09-02 00:30:48 +0000"
     },
     "done": true
   },
@@ -808,15 +1039,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2021-09-02 00:54:37 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/wooden_button_from_bop_wood": {
     "criteria": {
       "has_the_recipe": "2021-08-30 01:34:33 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2021-09-02 00:54:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2021-08-31 03:16:02 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decorative/white_vending_machine": {
+    "criteria": {
+      "has_fresh_water": "2021-09-02 02:38:09 +0000"
     },
     "done": true
   },
@@ -832,6 +1081,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2021-09-02 00:54:37 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_magic": {
     "criteria": {
       "entered_water": "2021-08-30 01:14:01 +0000"
@@ -844,17 +1099,43 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2021-09-02 00:54:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2021-09-02 00:30:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2021-08-30 01:37:10 +0000"
     },
     "done": true
   },
+  "pixelmon:recipes/machines/blue_vending_machine": {
+    "criteria": {
+      "has_the_recipe": "2021-09-02 02:38:09 +0000",
+      "has_fresh_water": "2021-09-02 02:38:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2021-09-02 00:30:48 +0000"
+    },
+    "done": true
+  },
   "pixelmon:recipes/lures/lure_type_weak": {
     "criteria": {
+      "has_leppa": "2021-09-02 07:12:06 +0000",
       "has_case_recipe": "2021-08-30 02:14:06 +0000"
     },
-    "done": false
+    "done": true
   },
   "biomesoplenty:recipes/transportation/boat_palm": {
     "criteria": {
@@ -868,15 +1149,40 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_block": {
+    "criteria": {
+      "has_brick": "2021-09-02 00:49:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2021-09-02 00:54:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-08-30 02:04:56 +0000"
     },
     "done": true
   },
+  "pixelmon:recipes/machines/orange_vending_machine": {
+    "criteria": {
+      "has_the_recipe": "2021-09-02 02:38:09 +0000",
+      "has_fresh_water": "2021-09-02 02:38:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-08-30 02:04:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2021-09-02 00:54:37 +0000"
     },
     "done": true
   },
@@ -910,6 +1216,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2021-09-02 00:30:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2021-09-02 00:54:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2021-08-30 01:32:21 +0000"
@@ -919,6 +1237,12 @@
   "biomesoplenty:recipes/transportation/boat_fir": {
     "criteria": {
       "entered_water": "2021-08-30 01:14:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2021-09-02 00:54:37 +0000"
     },
     "done": true
   },
@@ -946,6 +1270,18 @@
     },
     "done": true
   },
+  "pixelmon:recipes/decorative/red_vending_machine": {
+    "criteria": {
+      "has_fresh_water": "2021-09-02 02:38:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_bricks": {
+    "criteria": {
+      "has_end_stone": "2021-09-02 02:13:27 +0000"
+    },
+    "done": true
+  },
   "pixelmon:recipes/decorative/blue_rug": {
     "criteria": {
       "has_wool": "2021-08-30 01:32:21 +0000"
@@ -970,9 +1306,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2021-09-02 00:54:37 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_sacred_oak": {
     "criteria": {
       "entered_water": "2021-08-30 01:14:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2021-09-01 02:47:15 +0000"
     },
     "done": true
   },
@@ -990,7 +1338,8 @@
   },
   "biomesoplenty:biomesoplenty/terrestrial_artifact": {
     "criteria": {
-      "peridot": "2021-08-31 03:52:34 +0000"
+      "peridot": "2021-08-31 03:52:34 +0000",
+      "emerald": "2021-09-02 00:30:08 +0000"
     },
     "done": false
   },
@@ -1012,11 +1361,29 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2021-09-02 00:48:06 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/coarse_loamy_dirt": {
     "criteria": {
       "has_gravel": "2021-08-30 02:04:56 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2021-09-02 00:54:37 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/lures/lure_ha_strong": {
+    "criteria": {
+      "has_petaya": "2021-09-02 05:04:47 +0000"
+    },
+    "done": false
   },
   "biomesoplenty:recipes/redstone/wooden_pressure_plate_from_bop_wood": {
     "criteria": {
@@ -1050,9 +1417,16 @@
   },
   "pixelmon:recipes/lures/lure_shiny_weak": {
     "criteria": {
+      "has_salac": "2021-09-02 06:32:52 +0000",
       "has_case_recipe": "2021-08-30 02:14:06 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2021-09-02 00:54:37 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
@@ -1081,6 +1455,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-08-30 02:04:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2021-09-02 00:54:37 +0000"
     },
     "done": true
   },
@@ -1138,6 +1518,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_log": "2021-09-02 07:18:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2021-08-30 04:02:05 +0000"
@@ -1159,6 +1545,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2021-08-30 01:21:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_log": "2021-09-02 00:18:37 +0000"
     },
     "done": true
   },
@@ -1189,6 +1581,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2021-08-31 03:50:12 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decorative/orange_vending_machine": {
+    "criteria": {
+      "has_fresh_water": "2021-09-02 02:38:09 +0000"
     },
     "done": true
   },
@@ -1228,6 +1626,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_the_recipe": "2021-09-02 04:41:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2021-08-30 01:21:31 +0000"
@@ -1240,6 +1644,12 @@
     },
     "done": true
   },
+  "pixelmon:legendaries/legendary_capture_trigger": {
+    "criteria": {
+      "legendary_capture": "2021-09-02 06:39:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2021-08-30 01:32:21 +0000"
@@ -1249,6 +1659,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_the_recipe": "2021-08-30 02:14:32 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/ranch": {
+    "criteria": {
+      "has_the_recipe": "2021-09-02 01:02:06 +0000"
     },
     "done": true
   },
@@ -1306,9 +1722,21 @@
     },
     "done": true
   },
+  "pixelmon:recipes/decorative/black_vending_machine": {
+    "criteria": {
+      "has_fresh_water": "2021-09-02 02:38:09 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/coarse_sandy_dirt": {
     "criteria": {
       "has_gravel": "2021-08-30 02:04:56 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:specs/spec_trigger": {
+    "criteria": {
+      "shiny_spec_trigger": "2021-09-02 05:17:18 +0000"
     },
     "done": true
   },
@@ -1324,6 +1752,12 @@
     },
     "done": true
   },
+  "pixelmon:recipes/decorative/gray_vending_machine": {
+    "criteria": {
+      "has_fresh_water": "2021-09-02 02:38:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2021-08-31 03:53:36 +0000"
@@ -1336,6 +1770,12 @@
     },
     "done": true
   },
+  "pixelmon:balls/ultra_ball_capture": {
+    "criteria": {
+      "ultra_ball_capture": "2021-09-01 02:32:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2021-08-30 02:48:04 +0000",
@@ -1344,13 +1784,22 @@
       "deep_ocean": "2021-08-30 05:49:36 +0000",
       "beaches": "2021-08-30 01:16:12 +0000",
       "extreme_hills_with_trees": "2021-08-30 05:33:06 +0000",
+      "mesa": "2021-09-02 05:23:03 +0000",
       "forest_hills": "2021-08-30 21:43:55 +0000",
       "plains": "2021-08-30 02:13:35 +0000",
+      "savanna": "2021-09-02 04:48:22 +0000",
+      "jungle_hills": "2021-09-02 07:10:26 +0000",
+      "jungle_edge": "2021-09-02 07:13:49 +0000",
+      "savanna_rock": "2021-09-02 04:48:25 +0000",
+      "taiga": "2021-09-02 05:47:51 +0000",
+      "taiga_hills": "2021-09-02 05:47:57 +0000",
       "birch_forest_hills": "2021-08-30 21:54:25 +0000",
       "ocean": "2021-08-30 01:15:28 +0000",
       "extreme_hills": "2021-08-30 05:32:59 +0000",
       "roofed_forest": "2021-08-30 02:49:35 +0000",
+      "cold_beach": "2021-09-02 07:06:38 +0000",
       "river": "2021-08-30 01:13:50 +0000",
+      "jungle": "2021-09-02 07:10:16 +0000",
       "desert": "2021-08-31 05:33:25 +0000",
       "stone_beach": "2021-08-30 05:32:52 +0000"
     },
@@ -1365,6 +1814,13 @@
   "minecraft:recipes/building_blocks/birch_wooden_slab": {
     "criteria": {
       "has_planks": "2021-08-31 03:16:02 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/red_vending_machine": {
+    "criteria": {
+      "has_the_recipe": "2021-09-02 02:38:09 +0000",
+      "has_fresh_water": "2021-09-02 02:38:09 +0000"
     },
     "done": true
   },
@@ -1429,6 +1885,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2021-09-02 00:54:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/boat": {
     "criteria": {
       "entered_water": "2021-08-30 01:14:01 +0000"
@@ -1447,15 +1909,33 @@
     },
     "done": true
   },
+  "pixelmon:recipes/decorative/cyan_vending_machine": {
+    "criteria": {
+      "has_fresh_water": "2021-09-02 02:38:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2021-08-31 03:16:02 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_red_flower": "2021-09-02 03:12:18 +0000"
+    },
+    "done": true
+  },
   "pixelmon:recipes/decorative/purple_cushion_chair": {
     "criteria": {
       "has_wool": "2021-08-30 01:32:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2021-09-02 00:54:37 +0000"
     },
     "done": true
   },
@@ -1495,6 +1975,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2021-09-02 00:49:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2021-09-02 00:54:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2021-08-30 01:39:27 +0000"
@@ -1513,9 +2005,22 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/tools/empty_jar": {
+    "criteria": {
+      "has_glass": "2021-09-02 00:54:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2021-08-31 02:53:12 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/yellow_vending_machine": {
+    "criteria": {
+      "has_the_recipe": "2021-09-02 02:38:09 +0000",
+      "has_fresh_water": "2021-09-02 02:38:09 +0000"
     },
     "done": true
   },
@@ -1525,15 +2030,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2021-09-02 00:54:37 +0000"
+    },
+    "done": true
+  },
   "pixelmon:recipes/decorative/orange_umbrella": {
     "criteria": {
       "has_wool": "2021-08-30 01:32:21 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2021-09-02 04:07:30 +0000"
+    },
+    "done": true
+  },
   "pixelmon:recipes/decorative/red_cushion_chair": {
     "criteria": {
       "has_wool": "2021-08-30 01:32:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2021-09-02 00:30:48 +0000"
     },
     "done": true
   },
@@ -1579,15 +2102,40 @@
     },
     "done": true
   },
+  "pixelmon:recipes/machines/pink_vending_machine": {
+    "criteria": {
+      "has_the_recipe": "2021-09-02 02:38:09 +0000",
+      "has_fresh_water": "2021-09-02 02:38:09 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/redwood_door": {
     "criteria": {
       "has_planks": "2021-08-30 03:13:54 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2021-09-02 00:54:37 +0000"
+    },
+    "done": true
+  },
   "pixelmon:recipes/decorative/brown_cushion_chair": {
     "criteria": {
       "has_wool": "2021-08-30 01:32:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2021-09-02 00:54:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime": {
+    "criteria": {
+      "has_at_least_9_slime_ball": "2021-09-02 04:41:41 +0000"
     },
     "done": true
   }
