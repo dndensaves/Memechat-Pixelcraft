@@ -794,6 +794,12 @@
     },
     "done": true
   },
+  "pixelmon:legendaries/latios_capture_trigger": {
+    "criteria": {
+      "latios_capture": "2021-09-03 07:28:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-08-29 03:44:30 +0000"
