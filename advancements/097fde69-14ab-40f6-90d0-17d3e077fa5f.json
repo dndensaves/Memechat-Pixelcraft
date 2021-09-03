@@ -770,6 +770,12 @@
     },
     "done": true
   },
+  "pixelmon:legendaries/mewtwo_capture_trigger": {
+    "criteria": {
+      "mewtwo_capture": "2021-09-03 04:03:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold": "2021-08-30 05:14:34 +0000"
@@ -1503,6 +1509,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/slime": {
+    "criteria": {
+      "has_at_least_9_slime_ball": "2021-09-03 04:00:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2021-08-29 02:09:16 +0000"
@@ -1705,6 +1717,12 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2021-08-29 09:52:27 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:balls/master_ball_capture": {
+    "criteria": {
+      "master_ball_capture": "2021-09-03 04:03:29 +0000"
     },
     "done": true
   },
@@ -2511,6 +2529,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2021-08-29 01:49:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_the_recipe": "2021-09-03 04:00:45 +0000"
     },
     "done": true
   },
