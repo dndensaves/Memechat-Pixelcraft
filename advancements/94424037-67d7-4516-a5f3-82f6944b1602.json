@@ -1051,6 +1051,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_log": "2021-09-02 20:01:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone": {
     "criteria": {
       "has_bone": "2021-08-29 05:54:58 +0000"
@@ -2481,6 +2487,12 @@
   "pixelmon:balls/safari_ball_capture": {
     "criteria": {
       "safari_ball_capture": "2021-08-29 04:39:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log2": "2021-09-02 22:30:09 +0000"
     },
     "done": true
   },
