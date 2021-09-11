@@ -53,6 +53,18 @@
     },
     "done": true
   },
+  "pixelmon:types/capture_grass_10": {
+    "criteria": {
+      "capture_grass_10": "2021-09-04 01:18:12 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:pokedex/pokedex_percent_10": {
+    "criteria": {
+      "pokedex_percent_10": "2021-09-04 01:21:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-08-29 03:44:30 +0000"
@@ -243,6 +255,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2021-09-02 01:40:40 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:types/capture_normal_25": {
+    "criteria": {
+      "capture_normal_25": "2021-09-04 01:41:45 +0000"
     },
     "done": true
   },
@@ -498,6 +516,7 @@
       "oasis": "2021-08-30 03:24:01 +0000",
       "woodland": "2021-08-29 01:41:40 +0000",
       "shrubland": "2021-08-29 04:23:40 +0000",
+      "xeric_shrubland": "2021-09-03 09:27:36 +0000",
       "tropical_rainforest": "2021-08-30 02:13:29 +0000",
       "fen": "2021-08-29 05:38:32 +0000",
       "steppe": "2021-08-29 08:27:42 +0000",
@@ -527,6 +546,7 @@
       "mangrove": "2021-08-29 08:29:35 +0000",
       "redwood_forest": "2021-08-29 05:05:47 +0000",
       "visceral_heap": "2021-08-29 20:51:19 +0000",
+      "cherry_blossom_grove": "2021-09-03 09:20:14 +0000",
       "snowy_forest": "2021-08-29 10:17:03 +0000",
       "seasonal_forest": "2021-08-30 02:40:28 +0000",
       "temperate_rainforest": "2021-08-30 21:45:31 +0000",
@@ -1454,6 +1474,12 @@
     },
     "done": true
   },
+  "pixelmon:specs/magikarp_jump_capture_all": {
+    "criteria": {
+      "0": "2021-09-04 02:06:44 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_the_recipe": "2021-09-03 01:46:20 +0000"
@@ -2342,9 +2368,21 @@
     },
     "done": true
   },
+  "pixelmon:types/capture_bug_10": {
+    "criteria": {
+      "capture_bug_10": "2021-09-04 01:18:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2021-08-29 02:09:16 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:types/capture_fairy_10": {
+    "criteria": {
+      "capture_fairy_10": "2021-09-04 01:37:34 +0000"
     },
     "done": true
   },
